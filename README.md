@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Kiran Saleem
 
-I am a motivated Flutter developer with hands-on experience in building Android and iOS applications using Flutter, Dart, Firebase Authentication, Firestore, and Laravel REST APIs. I enjoy writing clean, maintainable code, organizing project structure, and implementing responsive layouts. I have also worked on IoT projects, integrating microcontrollers with mobile apps, which enhanced my understanding of real-time communication and cloud services.
+I am a motivated Flutter developer with hands-on experience in building Android and iOS applications using Flutter, Firebase, and Laravel REST APIs. I enjoy writing clean, maintainable code, organizing project structure, and implementing responsive layouts. I have also worked on IoT projects, integrating microcontrollers with mobile apps, which enhanced my understanding of real-time communication and cloud services.
 
 ### 🔧 Tech Stack & Tools
 
