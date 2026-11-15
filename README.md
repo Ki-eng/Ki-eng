@@ -31,6 +31,4 @@ Advanced Flutter Architecture, State Management, IoT Cloud Integration
 
 ### 📫 Let's Connect
 
-💼 [LinkedIn](https://www.linkedin.com/in/kiran-saleem-b6b3a0184/)
-
 📧 Email: kiransaleem325@gmail.com
